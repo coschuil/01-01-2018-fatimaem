@@ -1,0 +1,11 @@
+C:\Users\Sony\Desktop\c#homeworks\loginForm\loginForm\bin\Debug\loginForm.exe.config
+C:\Users\Sony\Desktop\c#homeworks\loginForm\loginForm\bin\Debug\loginForm.exe
+C:\Users\Sony\Desktop\c#homeworks\loginForm\loginForm\bin\Debug\loginForm.pdb
+C:\Users\Sony\Desktop\c#homeworks\loginForm\loginForm\obj\Debug\loginForm.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\c#homeworks\loginForm\loginForm\obj\Debug\loginForm.Form1.resources
+C:\Users\Sony\Desktop\c#homeworks\loginForm\loginForm\obj\Debug\loginForm.Properties.Resources.resources
+C:\Users\Sony\Desktop\c#homeworks\loginForm\loginForm\obj\Debug\loginForm.csproj.GenerateResource.Cache
+C:\Users\Sony\Desktop\c#homeworks\loginForm\loginForm\obj\Debug\loginForm.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\c#homeworks\loginForm\loginForm\obj\Debug\loginForm.exe
+C:\Users\Sony\Desktop\c#homeworks\loginForm\loginForm\obj\Debug\loginForm.pdb
+C:\Users\Sony\Desktop\c#homeworks\loginForm\loginForm\obj\Debug\loginForm.Form2.resources
